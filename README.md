@@ -4,13 +4,9 @@ drupalTest
 drupal Test site - to see how it works
 Pocetak svega 
 
-CONTENT OF THIS FILE
---------------------------
+DESCRIPTION
+-------------
 
-	* About Drupal
-	* Configuration and features
-	* Apperance
-	* Developing for Drupal
-	
-ABOUT DRUPAL
---------------
+	* This is a Drupal test site
+	* Test everything to master upload
+	* Test at creating forks
