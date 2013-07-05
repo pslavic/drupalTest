@@ -10,3 +10,7 @@ DESCRIPTION
 	* This is a Drupal test site
 	* Test everything to master upload
 	* Test at creating forks
+
+
+
+Testing site -> trying to connect from manas
